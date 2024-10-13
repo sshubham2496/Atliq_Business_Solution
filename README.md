@@ -1,14 +1,53 @@
-# Atliq_Business_Solution
-Atliq-Business - This Power BI project provides an in-depth analysis of Atliq's business performance, focusing on key metrics such as sales, transactions, gross margin, net sales, and profit. The project is designed to offer actionable insights into the company's financial health and operational efficiency. 
+Business Insights 360 on AtliQ Hardware’s Financial Dataset.
 
-**Features**
+Problem Statement:
+ AtliQ Hardware, a prominent consumer electronics company with a global footprint, is currently undergoing rapid expansion. However, their dependence on Excel files for data analytics has revealed inefficiencies, hindering the generation of meaningful insights.
 
-**Finance View** - This perspective emphasizes optimizing resource allocation, controlling costs, and maximizing returns on investments, all while mitigating financial risks and ensuring long-term financial stability.
+Project Aim:
+ To address this challenge, I spearheaded the implementation of a Power BI dashboard. project typically revolves around gaining insights, making informed decisions, or solving specific problems by examining and interpreting data. Ultimately, helpful in extracting valuable information that can drive actions or strategies for improvement, optimization, or innovation.
 
-**Sales View** - This perspective prioritizes market analysis, lead generation, sales conversions, and customer retention to achieve growth targets and increase market share.
+Tech Involved:
+ ➡ Excel
+ ➡ Power BI Desktop
+ ➡ DAX language
+ ➡ DAX studio (for optimizing the report)
+ ➡ MySQL
 
-**Marketing View** - The marketing view of a business centers on identifying and meeting customer needs through strategic promotion and branding. It involves market research, segmentation, and targeting to create compelling messages and campaigns that attract and retain customers.
+Interactive Analytics Panels:
+ ✔️ Finance View
+ ✔️ Sales View
+ ✔️ Marketing View
+ ✔️ Supply Chain View
+ ✔️ Executive View
 
-**Supply Chain View** - The supply chain view of a business focuses on the management and optimization of the entire process from raw materials to finished products delivered to customers. It involves coordinating procurement, production, logistics, and distribution to ensure efficiency, reduce costs, and meet customer demands. This perspective emphasizes streamlining operations, enhancing supplier relationships, and managing inventory to improve overall supply chain performance and responsiveness.
+Power BI Techniques:
+ ➡ Creating calculated columns
+ ➡ Creating measures using the DAX language
+ ➡ Data modeling
+ ➡ Using Bookmarks to switch between two visuals
+ ➡ Page navigation with buttons
+ ➡ Creating date table using m language
+ ➡ Dynamic titles based on the applied filters
+ ➡ Using KPI indicators & new card visuals 
+ ➡ Conditional formatting of the values in visuals
+ ➡ Data validation techniques
+ ➡ Power BI services & latest updates on visuals
 
-**Executive View** - The executive view of a business focuses on high-level strategic planning and decision-making to guide the company towards its long-term goals. It involves overseeing all functional areas, setting overall vision and objectives, and ensuring alignment with the company’s mission.
+
+Business Terminology:
+ ✔️ Fiscal Year
+ ✔️ Gross Price
+ ✔️ Pre-Invoice Deduction
+ ✔️ Net Invoice Sales Amount
+ ✔️ Post-Invoice Deduction
+ ✔️ Net Sales
+ ✔️ COGS (Cost of Goods Sold)
+ ✔️ Gross Margin
+ ✔️ Operational Expense
+ ✔️ Net Profit
+ ✔️ YTD - Year to Date
+ ✔️ YTG - Year to Go
+ ✔️ Target
+ ✔️ Net Error, Abs error 
+ ✔️ Forecast Accuracy
+ ✔️ Market Share
